@@ -1,0 +1,16 @@
+{
+  "name": "cursoNode",
+  "version": "1.0.0",
+  "description": "Curso de Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego Felipe",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-rallycoding": "^3.2.0",
+    "standard": "^12.0.1"
+  }
+}
